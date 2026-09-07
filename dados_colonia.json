@@ -1,0 +1,58 @@
+{
+    "modulos": [
+        {
+            "nome": "Habitat Alpha",
+            "tipo": "controle",
+            "consumo_kwh": 45.0,
+            "prioridade": 1,
+            "status": "ativo",
+            "nivel_risco": "baixo",
+            "ultima_manutencao": "2026-05-09"
+        },
+        {
+            "nome": "MedBase",
+            "tipo": "medico",
+            "consumo_kwh": 38.0,
+            "prioridade": 2,
+            "status": "ativo",
+            "nivel_risco": "baixo",
+            "ultima_manutencao": "2026-04-22"
+        },
+        {
+            "nome": "Reator Solar",
+            "tipo": "energia",
+            "consumo_kwh": 20.0,
+            "prioridade": 2,
+            "status": "ativo",
+            "nivel_risco": "medio",
+            "ultima_manutencao": "2026-03-15"
+        },
+        {
+            "nome": "BioLab",
+            "tipo": "pesquisa",
+            "consumo_kwh": 30.0,
+            "prioridade": 3,
+            "status": "ativo",
+            "nivel_risco": "baixo",
+            "ultima_manutencao": "2026-05-01"
+        },
+        {
+            "nome": "LogiStore",
+            "tipo": "logistica",
+            "consumo_kwh": 25.0,
+            "prioridade": 4,
+            "status": "ativo",
+            "nivel_risco": "medio",
+            "ultima_manutencao": "2026-02-18"
+        },
+        {
+            "nome": "TerraBot",
+            "tipo": "mineracao",
+            "consumo_kwh": 55.0,
+            "prioridade": 5,
+            "status": "inativo",
+            "nivel_risco": "alto",
+            "ultima_manutencao": "2026-01-30"
+        }
+    ]
+}
