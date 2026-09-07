@@ -54,5 +54,16 @@
             "nivel_risco": "alto",
             "ultima_manutencao": "2026-01-30"
         }
+    ],
+    "historico_interacoes": [
+        {
+            "data": "2026-09-07 20:29",
+            "modulo": "TerraBot",
+            "tecnica": "Few-shot",
+            "classificacao": "Crítico",
+            "justificativa": "O módulo TerraBot está fora de operação e com nível de risco alto.",
+            "acao_recomendada": "Acionar a equipe técnica para intervenção imediata.",
+            "prioridade_atendimento": 1
+        }
     ]
 }
